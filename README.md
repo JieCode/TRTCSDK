@@ -1,3 +1,5 @@
+请到 https://github.com/tencentyun/TRTCSDK 查看最新版本
+
 ## iOS 
 > [APPStore 体验地址](https://itunes.apple.com/cn/app/id1400663224?mt=8)
 
